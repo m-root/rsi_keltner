@@ -1,0 +1,10 @@
+tabulate
+pyti
+pytz
+requests
+python-telegram-bot
+python-dateutil
+websocket
+python-binance-api
+amqp
+celery==3.1.24

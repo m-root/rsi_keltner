@@ -1,0 +1,11 @@
+# tabulate
+pyti
+pytz
+requests
+python-telegram-bot
+python-dateutil
+requests
+amqp
+celery
+numpy
+websocket

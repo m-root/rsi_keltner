@@ -1,0 +1,31 @@
+    '''
+    New
+    cancel
+    place new
+    check price
+    check if order has been filled
+        if order_filled:
+            delete_list
+        else:
+            pass
+
+    pull_prices
+        check_last_entry
+
+
+    get_last_price and direction
+        cater for direction
+            place_stop_loss
+                if price-stop_loss > set_diff
+                    stop_loss = price - set_diff
+                if price >= break_even + entry_price
+                    cancel_stop_loss
+                    place_new_stop_loss
+
+    03 = 'BTCUSD'
+    03 = 'Buy/Sell'
+    06 = '6789.90'
+    '''
+    
+    
+
